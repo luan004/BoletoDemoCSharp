@@ -12,3 +12,4 @@ c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\obj\Debug\net8.0\re
 c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\obj\Debug\net8.0\BoletoDemoCSharp.pdb
 c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\obj\Debug\net8.0\BoletoDemoCSharp.genruntimeconfig.cache
 c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\obj\Debug\net8.0\ref\BoletoDemoCSharp.dll
+c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\obj\Debug\net8.0\BoletoDemoCSharp.sourcelink.json
