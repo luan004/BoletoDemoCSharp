@@ -13,3 +13,11 @@ c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\obj\Debug\net8.0\Bo
 c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\obj\Debug\net8.0\BoletoDemoCSharp.genruntimeconfig.cache
 c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\obj\Debug\net8.0\ref\BoletoDemoCSharp.dll
 c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\obj\Debug\net8.0\BoletoDemoCSharp.sourcelink.json
+c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\obj\Debug\net8.0\BoletoDemoCSharp.csproj.AssemblyReference.cache
+c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\bin\Debug\net8.0\RestSharp.dll
+c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\obj\Debug\net8.0\BoletoDe.09854780.Up2Date
+c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\bin\Debug\net8.0\DotNetEnv.dll
+c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+c:\Users\luang\OneDrive\Documentos\Projetos\BoletoDemoCSharp\bin\Debug\net8.0\Sprache.dll
